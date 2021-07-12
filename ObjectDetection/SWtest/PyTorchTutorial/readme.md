@@ -66,7 +66,7 @@ train_features.size()       >> torch.Size([64, 1, 28, 28]) # [batch, channel, im
 > ```
 > 2. label: 0부터 9까지 라벨링된 10가지 종류의 의류
 
-### Autograd
+### 3. Autograd
 `autograd`를 통해 backpropagation을 위한 미분값을 자동으로 계산
 > `autograd.Variable`의 구성
 > 1. `data` = Tensor 형태의 데이터
