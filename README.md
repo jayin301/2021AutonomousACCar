@@ -27,5 +27,6 @@
 - https://gpiozero.readthedocs.io/en/stable/recipes.html#motors
 ### jetson nano robohat mm1 control
 - https://github.com/robotics-masters/donkeycar
+- https://www.hackster.io/wallarug/donkey-car-with-jetson-nano-robo-hat-mm1-e53e21
 
 ## projects management
