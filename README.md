@@ -24,6 +24,7 @@
 ## References
 ### Raspberry pi tutorial 
 - https://pythonprogramming.net/robot-remote-control-car-with-the-raspberry-pi/
+- https://gpiozero.readthedocs.io/en/stable/recipes.html#motors
 ### jetson nano robohat mm1 control
 - https://github.com/robotics-masters/donkeycar
 
