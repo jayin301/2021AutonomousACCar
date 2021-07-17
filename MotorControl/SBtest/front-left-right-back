@@ -1,0 +1,23 @@
+# 모듈 불러오기
+from gpiozero import Servo
+from gpiozero import Motor
+from time import sleep
+
+#변수 정의
+motor= Motor(forward=20, backward=21)
+servo = Servo(17)
+
+#5초마다 방향 및 속도가 변화하도록 하는 코드. 
+while True:
+    servo.mid()
+    dc_motor.forward(speed=1)
+    sleep(5)
+    servo.min()
+    dc_motor.forward(speed=1)
+    sleep(5)
+    servo.max()
+    dc_motor.forward(speed=1)
+    sleep(5)
+    servo.mid()
+    dc_motor.backward(speed=1)
+    sleep(5)
