@@ -15,6 +15,10 @@
 - Yolo(v3) python tutorial https://nuggy875.tistory.com/14?category=860935
 - opencv tutorial https://www.youtube.com/watch?v=oXlwWbU8l2o
 
+### Library&Github code
+- yolo-coco https://github.com/Sigil-Wen/YOLO
+- eriklindernoren/PyTorch-YOLOv3 https://github.com/eriklindernoren/PyTorch-YOLOv3
+
 ## Dataset
 - Oxford RobotCar dataset: https://robotcar-dataset.robots.ox.ac.uk/
 - level5:https://autonomous.lyft.com/level5/data/?source=post_page---------------------------
