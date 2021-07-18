@@ -17,7 +17,8 @@
 
 ### Tutorial sites
 - Yolo(v3) python tutorial https://nuggy875.tistory.com/14?category=860935
-
+- [opencv tutorial] https://www.youtube.com/watch?v=oXlwWbU8l2o
+ 
 ### Dataset
 - cityscapes https://www.cityscapes-dataset.com/
 
