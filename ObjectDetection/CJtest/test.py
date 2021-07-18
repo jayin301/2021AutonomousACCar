@@ -20,7 +20,7 @@ while True:
     #edge detection
     #1st: canny edge detector
     canny = cv.Canny(gray, 100, 150)
-    #2nd: lapalcian
+    #2nd: laplacian
     lap = cv.Laplacian(gray, cv.CV_64F)
     lap = np.uint8(np.absolute(lap))
     #3rd: sobel
