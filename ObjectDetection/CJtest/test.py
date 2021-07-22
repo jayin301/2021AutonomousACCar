@@ -4,7 +4,7 @@ import numpy as np
 #development environment
 # OS:Windows 10
 # Language: python 3.9.1
-# Lib: opencv 4.5.3
+# Lib: opencv 4.5.3 (참고용 url = https://docs.opencv.org/master/)
 #      numpy 1.19.3
 #study by following the video url=https://www.youtube.com/watch?v=oXlwWbU8l2o
 
